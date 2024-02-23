@@ -1,7 +1,7 @@
 <h1>Welcome to my GitHub repository!</h1>
 
 <h2>About Me</h2>
-👋 Hi there! I'm a Structural Engineer making a transition into the world of web development. I'm passionate about coding, problem-solving, and crafting user-friendly web experiences.
+👋 Hi there! I'm a passionate Web Developer with a knack for crafting engaging and user-centric digital experiences. I thrive on turning ideas into reality through clean and efficient code. Proficient in HTML, CSS, JavaScript, React.js, Node.js, and more, I'm constantly exploring new technologies and refining my skills to stay at the forefront of web development trends. Check out my projects to see some of my work in action!
 
 <h2>Skills</h2>
 
@@ -11,10 +11,6 @@ HTML5<br>
 CSS3<br>
 React.js<br>
 
-🛠️ Other Skills:<br>
-Structural Design Expertise<br>
-Problem-solving<br>
-Analytical Thinking<br>
 <h2>Projects</h2>
 🌟 Here are some highlights of my projects:
 
